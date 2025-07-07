@@ -94,4 +94,4 @@ Open `PDF_GPT.ipynb`, update your **PDF file path**, and start asking questions!
 ## 📢 Connect
 
 Made with ❤️ by **Uday Pandey**  
-📬 Reach me on [LinkedIn](https://linkedin.com/in/uday-pandey)
+📬 Reach me on [LinkedIn]([https://linkedin.com/in/uday-pandey](https://www.linkedin.com/in/uday-pandey-18b53b166/))
