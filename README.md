@@ -32,7 +32,8 @@ This project lets you **ask questions to a PDF document** using local LLMs like 
 
 ## 🖥️ Demo Screenshot
 
-> *(Add a screenshot here showing the notebook answering a question)*
+<img width="1163" alt="image" src="https://github.com/user-attachments/assets/48df8ecd-5666-4481-a3b0-271cf44da92b" />
+
 
 ---
 
